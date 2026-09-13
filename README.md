@@ -84,7 +84,7 @@ end
 endmodule
 ```
  Developed by:Syed Najmuddin M R  RegisterNumber:212225040456
-*/
+
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 <img width="1371" height="702" alt="image" src="https://github.com/user-attachments/assets/d6a4295d-d0ef-482f-b085-7577aa63bb2a" />
