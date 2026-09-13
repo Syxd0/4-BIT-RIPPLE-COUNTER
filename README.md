@@ -94,4 +94,5 @@ endmodule
 
 
 **RESULTS**
+
 The functional simulation verified that the 4-bit ripple counter works correctly.Counting Sequence: With every clock pulse, the output increments sequentially in binary from 0000 (0) to 1111 (15).Rollover: After reaching 1111, the counter automatically resets and rolls over back to 0000 on the next clock pulse.
